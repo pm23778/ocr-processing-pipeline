@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+kafka-python==2.0.2
+redis==5.0.4
+python-dotenv==1.0.0
+pydantic==2.11.0
+pydantic-settings
+opencv-python==4.8.1.78
+matplotlib==3.7.2
+torch==2.0.1
+numpy==1.24.4
+pyiqa==0.1.10
